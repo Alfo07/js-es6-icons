@@ -1,0 +1,43 @@
+/* HEADER */
+header{
+    height: 70px;
+    background-color: #0c5a8d;
+}
+
+header h1{
+    font-size: 50px;
+}
+/* /HEADER */
+
+/* MAIN */
+#ms-container{
+    background-color: #ffc47a;
+    color: white;
+    text-align: center;
+}
+
+label, option{
+    text-transform: uppercase;
+}
+
+main{
+    height: calc(100vh - 70px);
+    background-color: #e2e2e2;
+}
+/* /MAIN */
+
+/* ADDED WITH JS */
+.personalCard{
+    background-color: #F5F5F5;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 30px 0;
+}
+
+.fa-solid{
+    padding: 5px;
+    font-size: 60px;
+    padding-bottom: 10px;
+}
+/* /ADDED WITH JS */
